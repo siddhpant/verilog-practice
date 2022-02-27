@@ -8,6 +8,8 @@
 
 ![image-20220227152244683](README.assets/image-20220227152244683.png)
 
+---
+
 # Full Adder (Using Half Adder)
 
 ## RTL schematic

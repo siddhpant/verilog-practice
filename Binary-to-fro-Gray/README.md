@@ -8,6 +8,8 @@
 
 ![image-20220227150233179](README.assets/image-20220227150233179.png)
 
+---
+
 # Gray to Binary Encoder
 
 ## RTL schematic

@@ -12,6 +12,8 @@ An interesting exercise which shows different abstractions get mapped to same ha
 
 ![image-20220228001019184](README.assets/image-20220228001019184.png)
 
+---
+
 # 1:8 Demultiplexer (Using `always_comb` block)
 
 ## RTL schematic
